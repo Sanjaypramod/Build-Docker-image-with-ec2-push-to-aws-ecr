@@ -1,0 +1,10 @@
+1. Spin up a instance
+2. Download latest docker engine
+3. Create a role "AMAZONEC2ContainerRegistryFullAccess"
+4. Attach IAM role to EC2 instace
+5. Create ECR repo
+6. Click viw push command
+7. cpoy the first command and execute to server
+9. Create Dockerfile
+10. Run one by one command in the push command section
+11. Check the ECR repo and it's show to new image. 
